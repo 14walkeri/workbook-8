@@ -1,0 +1,9 @@
+POST http://localhost:3000/todos
+Content-Type: application/json
+
+  {
+    "userId": 1,
+    "title": "take the north",
+    "completed": false
+    
+  }
